@@ -1,0 +1,7 @@
+# 헤이 은석! v3.0 - 클라이언트 의존성 (로컬 PC)
+# Python 3.9+
+
+requests
+sounddevice
+soundfile
+numpy

@@ -1,0 +1,25 @@
+# 헤이 은석! v3.0 - 서버 의존성 (Runpod)
+# Python 3.11+
+
+# PyTorch (CUDA 12.x)
+torch==2.4.0
+torchaudio==2.4.0
+
+# STT
+faster-whisper
+
+# TTS
+TTS
+transformers==4.40.0
+
+# Speaker Recognition
+speechbrain
+
+# Web Server
+fastapi
+uvicorn
+python-multipart
+
+# Audio
+soundfile
+numpy
